@@ -41,3 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### Contract Creation
 
 Go to https://remix.ethereum.org/ to create the solidity contract
+
+### MetaMask
+
+Go to google extensions to download MetaMask wallet
